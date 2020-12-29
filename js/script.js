@@ -7,3 +7,4 @@ function checkDevice(event){
         alert('ЭСМИнец');
     }
 }
+alert('ddddddddddd');
